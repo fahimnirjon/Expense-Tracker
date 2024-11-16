@@ -32,7 +32,7 @@
 
 This repository contains the code corresponding to an in-depth tutorial available on our
 
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to 
+If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how 
 
 ## <a name="introduction">🤖 Introduction</a>
 
