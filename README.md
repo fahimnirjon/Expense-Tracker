@@ -15,7 +15,7 @@
   <h3 align="center">Finance Smart</h3>
 
    <div align="center">
-      this project sstep with detailed</div>
+      this project ss with detailed</div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
