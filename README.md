@@ -15,7 +15,7 @@
   <h3 align="center">Finance Smart</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a hretarget="_
+     Build this project step by step with our detailed tutorial on <a hretarget=
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
