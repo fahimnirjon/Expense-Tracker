@@ -30,8 +30,7 @@
 
 ## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTub<a href="" target="_bla
->
+This repository contains the code corresponding to an in-depth tutorial available on our YouTub<a href="" target="_bl
 
 If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
