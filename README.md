@@ -15,7 +15,7 @@
   <h3 align="center">Finance Smart</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="" target="_blank"><b>Your YouTube Chann</b></a>
+     Build this project step by step with our detailed tutorial on <a href="" target="_blank"><b>Your YouTube Chan</b></a>
     </div>
 </div>
 
