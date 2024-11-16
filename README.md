@@ -30,7 +30,7 @@
 
 ## 🚨 Tutorial
 
-This pository contains the code corresponding to an i
+This pository contains the code corresponding to an
 ## <a name="introduction">🤖 Introduction</a>
 
 Built with the latest Next.js and TypeScript, Finance Smartly is an advanced AI financial advice tool. It allows users to input their income, expenses, and budgets, and receive personalized financial advice based on their financial data. This project is perfect for those looking to learn how to integrate AI-driven insights and financial management into a Next.js application.
