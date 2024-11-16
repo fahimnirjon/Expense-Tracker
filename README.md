@@ -30,7 +30,7 @@
 
 ## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tut
+This repository contains the code corresponding to an in-depth tu
 
 If you prefer visulearning, this is the perfect res
 ## <a name="introduction">🤖 Introduction</a>
