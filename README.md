@@ -16,7 +16,7 @@
 
    <div align="center">
      Build this project step by step with our detailed tutorial on <a hretarge
-</div>
+</di
 
 ## 📋 <a name="table">Table of Contents</a>
 
